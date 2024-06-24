@@ -1,0 +1,173 @@
+
+SUMMERY
+Around 8+ year of IT professional experience in software design and development of Java with solid understanding of Object-Oriented Programming (OOP) skills.
+Comprehensive experience in Java application development and Distributed application development, OOP, Internet/Intranet based Database Applications. 
+Comprehensively involved in developing enterprise applications using Java and J2EE technologies such as Core Java, JDBC, JSP, Servlets, Struts, spring, HTML, JavaScript, Web services, and SQL. 
+Comprehensively worked on implementing Service Oriented Architecture (SOA) using XML Web Services (SOAP, WSDL). 
+Expertise in  Java Design Patterns and Unified Modeling Language (UML) in designing JEE applications
+Regular duties include architecture/heavy coding/code review/deployment/support on daily basis. 
+Designing and developing the UI with Thymeleaf, JSP, HTML5, CSS3, AngularJs, Spring boot and JavaScript.
+Comprehensive experience in developing JEE based Web Services to expose useful functionality to web users through SOAP, describing them using WSDL, registering them using UDDI for easy availability to potential users and consuming using Axis2 and JAX-WS 
+Good Working experience in using different modules like Spring Core Container Module, Spring Application Context Module, Spring MVC Framework module in Spring Framework. 
+Experienced in developing web applications with MVC architecture using Struts, Hibernate.
+Experience in building N-tier Web Enabled Applications using Struts, MySQL, spring, Ajax, JSP, Servlets, JSON and Oracle. 
+Comprehensive experience in IDE such as Eclipse, JUnit, My Eclipse and NetBeans.
+Built responsive site using Bootstrap that fits devices of different visual sizes.
+Experience in designing Single Page Application using Angular JS
+Hands on experience in creating build scripts using Maven, Gulp and Grunt
+
+EDUCATION:
+Completed BS in Computer Science
+SCJP   Sun Certified Java Developer
+
+SKILLS:
+KEVIN SINGH
+
+Java 
+Spring 
+Hibernate
+JUnit
+TestNG
+JavaScript
+Angular
+React
+Node
+Oracle
+Mysql
+MongoDB
+
+
+EXPERIENCE:
+
+Hewlett-Packard Company, Palo Alto CA              Aug 2017 to Present
+Sr. FullStack Developer
+Responsibilities:  
+Used Java 8 Steams, filters lambda expressions comprehensively. 
+Developed the application using agile methodology and followed Test Driven Development TDD and Scrum.
+Used Hibernate in data access layer to access and update information in the database. 
+Built a custom cross-platform architecture using Java, Spring Core/MVC, and Hibernate.
+Used Java, Spring MVC and Hibernate, MySQL, jQuery, Bootstrap, Thymeleaf, Gradle, Jenkins, Git.
+Developed JUnit test classes to test the functionality of a code and developed test cases for Camel Routing. 
+Worked on Java 8 features like Lambda Expressions, Java Stream API and Concurrent Accumulators. 
+Used Java 8 diamond operators, Java stream Api, Collection Api and Lambda expressions etc. 
+Used Java 8, Lambda expressions (for code optimization and improved performance). 
+Wrote JUnit test cases for every testable class in the application, and used JMeter, TestNG and EasyMock framework. 
+Work extensively on spring boots for building web services.
+Worked with ORM technologies such as JPA, TopLink, Hibernate, iBatis/MyBatis and Spring JDBC.
+Developed front-end using Html5, CSS3, Javascript, Reactjs, Redux and Bootstrap.
+Used Typescript to reduce the JavaScript lines and for finding the compilation error during testing.
+Used JSON for data exchange between application modules along with XML.
+Designed and developed Broadridge Gateway which sends account updates, new account and settlement instructions information to Broadridge by using Apache Camel and Apache service Mix. 
+Developed database adapter, web services adapter, messaging adapter and custom workflow using Apache CAMEL. 
+Developed integration techniques using the Apache camel and Apache Activemq technologies. 
+Implemented request and response objects using SOAP web services and created routes using Apache Camel. 
+Implemented authorization and authentication with Spring Security thorough domain driven design.
+Developed an application in AWS environment using Node.js and Dynamo db. 
+Build scripts on AWS cloud for scheduling EC2 auto scaling load balancer with python SDK. 
+Migrated the current Linux environment to AWS/RHEL Linux environment and used auto scaling feature. 
+Deploying applications using Lamda, ECS and Docker containers and utilising CI/CD processes.
+Wrote and modified Microservices using Spring Boot Standalone Application and testing it using POSTMAN. 
+Developed microservices using spring boot for calling alfresco REST services. 
+Deployed Spring Boot based micro services Docker container using Amazon EC2 container services and using AWS admin console.
+Worked on configuration of development environment using Spring Boot 2.0.0 with Spring MVC, Spring Data, Spring Security, Primefaces. 
+Elastic search configuration files based on number of hosts available, naming the cluster and node. 
+Building a Web Crawling Search by Integrated the Hbase, Apache and Solr/Lucene with Hadoop Cluster. 
+Architected a Big Data Pipeline, ingesting raw data using sqoop and flume into an ungoverned.
+Worked with numerous tools and services from the AWS suite including S3, SQS, and AWS Lambda.
+Design Patterns development to support SOLID principles and Test-Driven Development.
+Utilized Apache Tiles plug-in in web application front for composite view pattern to keep the structure consistency.
+Technical Tools: - Java, Spring, Hibernate, Struts, JQuery, Angular.js, Spring boot, Spring Modules (DAO, MVC, Securities, AOP, ORM data), Angular4, ReactJS, JavaScript, AWS, EC2, S3, Load Balancer, Kubernetes, Cloudwatch, kinesis, lambda, JMS, MySQL.
+ 
+People's Bank, Medford, OR                  Sep 2015   Jul 2017
+FullStack Developer
+Responsibilities:  
+Built a RESTful API to save and retrieve geolocations using a remote server in Java using spring, MongoDB, Apache CXF, and JAX-RS.
+Development of the webpages from PSD mockups to final HTML/CSS/JQUERY based prototypes. 
+Modified JSPs, used struts tag libraries and Java Server Pages Standard Tag Library (JSTL).
+Development of Java/Web applications using JSF(Richfaces), Hibernate/JPA, Weblogic, Ilog Jrules.
+Worked on Javascript with ember.js to build a single-page app style front-end.
+Used Postgres to support applications that require a great deal of flexibility in the data model with JSON. 
+Design and implement disaster recovery for the PostgreSQL Database. 
+Worked with JSON objects and JavaScript and JQuery intensively to create interactive web pages.
+Authorized third-party access to the resources with the help of OAuth. 
+Wrote XML DTD and parsed documents using parsers like SAX and DOM.
+Implemented agent-server messaging dialog using Apache Camel and JMS (Active MQ implementation). 
+Developed and Designed Application using Spring Boot to Develop Microservices. 
+Used Spring Boot which is radically faster in building cloud Microservices and develop Spring based application with very less configuration.
+Implemented Micro-services using Pivotal Cloud Foundry platform build upon Spring Boot Services.
+Used groovy and spring boot to collecting the data from users and packaged the data as json distributed to number of applications. 
+Developed Docker container based micro services using Spring Boot/Cloud and deployment on Kubernetes cluster. 
+Designed and developed container to allow multiple independent deployments of Apache Camel routes.
+Used Apache Camel and CXF in the JBoss Fuse ESB as the integration platform for SOA Services.
+Implemented Apache Camel routes using Camel-Spring XML and Camel-Spring processor beans.
+Designed and developed P&L Attribution Project using Apache Camel and Apache Service Mix 
+Involved in service layer development to support voice calls. It is developed in Eclipse 
+Usage of version control repository SVN, Confluence, Wiki for documentation, Jenkins for nightly build.
+Used JUnit and JMeter to test SOAP Web services and application code.
+Developed the application using a Scrum/Scrumban driven agile methodology loosely based round BDD. 
+Using Hadoop Amazon AWS to run the algorithm and store the similarity scores in DynamoDB nosql database
+Built micro services to do realtime ETL with AWS Lambda, CloudWatch Events and zappa
+Amazon SQS is used as messaging service to store company information. 
+Deployed the application into the Amazon Web Service and worked on the configuration for EC2, S3, Route 53, RDS, SES, SNS and ElastiCache. 
+Integrate ElasticSearch to improve scalability of audit logging, topology and configuration reporting. 
+Used Apache Maven build tool to automate the build process and Jenkins CI for continuous integration.
+Used JSON for data exchange between application modules along with XML.
+Built rich features as well as maintaining existing ones through JIRA and GitLab 
+Used Apache Camel in the JBoss Fuse ESB as the integration platform for SOA Services.
+Technical Tools: - Java, Spring Modules, Ibatis, JavaScript, HTML, CSS, PostgreSQL, Restful API, JSON, XML, Eclipse, Git, SVN, JUnit, Agile, AWS, EC2, S3, Maven, JSON, JIRA, BPM, iLog, SOA, JMS, activemq, Tomcat, Linux, Unix.
+
+Oxford Health Plan Insurance, Trumbull, CT             Dec 2013   Aug 2015
+FullStack Developer
+Responsibilities:    
+Implemented JAVA Web Services based on SOA architecture with SOAP and WSDL.
+Developed Servlets and JSP based on MVC pattern using Struts framework and Spring Framework
+Responsible for Java profiler and JMeter load testing the error rate was reduced.
+Built a RESTful API to save and retrieve information in Java using Struts MVC, Apache CXF and JAXRS.
+Developed Web Applications using Java/J2EE, JSF, and JDK on JVM. 
+Developed dynamic web pages using HTML5, CSS3, JQuery, d3.js, JavaScript, S3, RDS and Eclipse as Text Editor.
+Completed data extracts for Coast Guard users using TOAD, PL/SQL and MS SQL Server.
+In depth exposure to creating API for internal and external application using REST and SOAP based design. Open source framework like Jersey used for create REST API
+Implemented various XML technologies like DTD schemas, DOM & SAX parsers, XSLT.
+Design and develop API-based microservices that integrate with Slack bots.
+Transitioning to microservices based approach to break huge monolith functionality wise in microservices. 
+Worked on Functional decomposition of monolithic application to microservices application.
+Worked with architects on formalizing plan to run microservices on cloud. 
+Implemented SOA architecture using SOAP web services by using Apache CXF and JAX-WS. 
+Worked with IDE as Eclipse and deployed into tomcat server, JBoss Application Server & used Ant tool. 
+Deployed the Adapters onto Oracle Weblogic Application Server
+Worked on Source control tool with Windows devices using Visual Studio Tools VST, SVN for Apache Cordova. With an extension for Visual Studio
+Used SoapUI and Postman to test web service response and also created mockup service. 
+Used agile principles such as Scrum, Continuous Integration, Pair Programming and Test-Driven Development (TDD) as development methodology. 
+Worked with in the Network interactions using JSON with REST API calls. 
+Created XSL style sheets to generate complicated output reports based on user requirements from XML.
+Used JIRA for tracking and Updating Project issue. 
+Websphere Process Server, Ilog JRules Engine and Message broker) using EJB.
+Used Apache Axis to create client Java classes for ACORD Life Web service.
+Moving of content from Interwoven TeamSite version and from windows to Linux.
+Involved in writing Unix Shell Script for performing automated tasks.
+Technical Tools: - Java, Java profiler, Spring, Mybatis, Struts, JSF, JavaScript,, HTML/CSS, DB2, MS SQL, Rest, XML, JUnit, JMeter, Postman, Agile, AWS, EC2, S3, RDS, JSP, Servlets, Maven, ANT, JSON, XML, Unix.
+
+Avaya, Santa Clara, CA               Dec 2011   Nov 2013
+Java Developer
+Responsibilities:    
+Created Servlets which route submittals to appropriate Enterprise Java Bean (EJB) components and render retrieved information.
+Wrote Java programs, performed builds, monitored DB2 data and ran SQL.
+Developed Java Script and Action Script, VB Script macros for Client Side validations.
+Expertise in MVC Architecture using JSF and Struts framework and implementing custom tag libraries.
+Experienced with various frameworks like Struts, Spring, Hibernate 
+Used JDBC to retrieve data from an MSSQL database to support a Swing gui.
+Designed and developed pricing region services using Oracle ADF, JSF and Oracle Spatial. 
+Design and developed large web 2.0 based enterprise solutions with emphasis on use of JavaScript.
+Designed and Implement Data Model for UDW Transition from Oracle & SQL Server to Google Cloud. 
+Developed Servlets and Worked comprehensively on Sql.
+Developed ant and Gradle build script, used Apache Ivy to handle dependencies 
+JIRA (Agile) was used to build an environment for development. 
+Web applications for eCommerce using Apache Wicket, Jersey, PostgreSQL, Tomcat and Spring.
+Configured and deployed custom Linux system for embedded x86 platform including ad-hoc networking.
+Unit testing for Web application was tested by running on tomcat and jre servers from unix box.
+Technical Tools: - Java, Spring, Struts, JDBC, JSF, JavaScript, HTML, CSS, Oracle, SOAP, Rest, JUnit, Waterfall, AWS, EC2, S3, Ant, XML, WSDL, JIRA, Tomcat, Linux.
+
+
+Education Details : 
+
+BS in Computer Science from APS University, India in 2010

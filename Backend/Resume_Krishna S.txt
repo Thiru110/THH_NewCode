@@ -1,0 +1,355 @@
+KRISHNA KANTH SHIVUNI
+Sr. Java Full Stack Developer
+
+Phone: 628-272-3305
+Mail: krishnakanth1991s@gmail.com
+
+PROFILE SUMMARY
+?  Having 10 years of professional experience in Cross-Platform (Web & Client-Server) application development and design using Object-Oriented Programming, Java/J2EE technologies.
+?  Expert in various Agile methodologies like Scrum, Test Driven Development (TDD), Incremental and Iteration methodology, Pair Programming, Agile Development Testing using Software Development Life Cycle.
+?  Strong experience in UI frameworks JavaScript, React JS, Angular 2/4/5/6/7/8/11/12 and jQuery.
+?  Experience in building applications using various frameworks like Spring Boot, Hibernate, EJB, JPA.
+?  Strong experience in Spring modules - Spring MVC, IOC, AOP, JDBC, JTA, IO, Spring Boot, Spring Microservices, Spring REST, Spring Eureka, Spring Ribbon, Spring Netflix.
+?  Strong experience in Securing API's using OAuth2.0 token-based authentication/authorization scheme using Spring Security.
+?  Strong experience in JWTs used in various ways in a web project for implementing authentication and authorization.
+?  Strong experience on Microservice patterns Hystrix , Aggregator, Proxy chaining.
+?  Experience in AWS platforms
+?  Strong Experience in Servlets where I used it to handle user requests for web pages, form submissions, and other interactions with a web application.
+?  Experience in API, Microservice development using technologies like Java, Oauth, Apigee, Swagger.
+?  Experience in Alfresco modules such as Records Management, Workflow, or Content Authoring.
+?  Experience in Scala Frameworks and libraries.
+?  Experience in JMS over messaging to exchange the information in more reliable and asynchronous way in enterprise applications and used Apache Kafka, Active MQ, Rabbit MQ, AMQP as JMS provider.
+?  Experience in handling messaging services using Apache Kafka.
+?  Tested Restful web services using Postman, SOAP UI.
+? Experience working with applications that are SharePoint clients.
+?  Experience with Spring JDBC Templates, JMS Templates, Spring EAI, Spring Rest Templates.
+?  Experience in implementing SOA and Web Services using SOAP, RESTFUL, JAX-WS, AXIS.
+?  Implemented various Design Patterns (Session Fa ade, Value Object, DAO, DTO, Command, Singleton, Factory, Adapter, MVC, Service Locator etc.) using J2EE technologies.
+?  Implemented RESTful Web services to retrieve data from client side and made REST API calls from Node JS, parsed the data to project to client and handled the security and Authorization using Spring Security or OAuth 2.0
+?  Proficient in integrating data from various sources, including databases, APIs, flat files, and cloud-based services.
+?  Experience with ETL (Extract, Transform, Load) tools such as Informatica, Talend, and Pentaho for moving and transforming data between different systems.
+?  Strong knowledge of SQL for querying and manipulating data from relational databases such as MySQL, PostgreSQL, and Oracle.
+?  Worked with Banking Sector for some period of time and developed a different modules using Java, Spring, Apache Kafka etc and deployed using GCP deployment.
+?  Used Quasar,Vue.js to render the dynamic data in DOM.
+?  Sound Experience in database modelling, design and development of PL/SQL stored procedures, packages in relational databases: Oracle 10g/11g, IBM DB2, MySQL, and SQL Server.
+?  Strong Knowledge on NOSQL database MongoDB, Cassandra as part of Open Source participation.
+?  Experience in JMS over messaging to exchange the information in more reliable and asynchronous way in enterprise Applications. Used Apache Active MQ, Rabbit MQ, AMQP as JMS provider.
+?  Experience in handling messaging services using Apache Kafka.
+?  Experience in writing unit test cases using JUnit, Testing, Mockito and Wrote JUnit Test Cases for challenging environments.
+?  Experience in Cassandra data modeling which is based on tables with rows and columns.
+?  Expertise in using Amazon Web Services AWS. Extensive experience in focusing on services like EC2, VPC, Cloud Watch, Cloud Front, IAM, S3, Amazon RDS, Elastic Cache, SNS, SQS.
+?  Experience with Docker containers, AMI's to create Docker images/ containers and Kubernetes container orchestration system.
+?  Proficient in Hadoop Distributed File System (HDFS) for storing and processing large volumes of data across multiple nodes.
+?  Experience with MapReduce, a programming model for processing and analyzing large datasets in parallel across a Hadoop cluster.
+?  Familiarity with YARN (Yet Another Resource Negotiator), which is the resource management layer of Hadoop that enables cluster management and job scheduling.
+?  Strong Experience with build tools like CI/CD, ANT, Maven, and logging tools like Log4J.
+?  Used Version Control like CVS, SVN (Subversion) and Git.
+?  Strong Experience in Maven for build, Jenkins and SonarQube continuous integration.
+?  Experienced in writing unit test cases using Junit, Testing, Mockito and Wrote JUnit Test Cases for challenging environments.
+?  Strong experience in test driven development, particularly using JUnit framework.
+?  Worked on various testing frameworks for front end/user interface like Karma, Jasmine, Jest, Mocha, Chai etc.
+?  Experience in AWS connect and AWS LEX and also in all other AWS services.
+?  Good Experience in Automation testing using Rest Assured framework and Selenium Web Driver.
+?  Expertise in Hibernate, Spring, EJB (Entity Session Message Driven Bean), Ajax, Java Beans, JNDI, JMS, Java Mail, XML, Sockets using IDE s like Eclipse.
+?  Good working knowledge of AWS, Spring Boot, Spring Cloud, Docker, Maven, etc. in developing applications which use cloud-based services.
+?  Good working knowledge in version control tools like GitHub, CVS, SVN, Rational Clear Case and Tortoise SVN.
+?  Worked with PostgreSQL which supports many features beyond the SQL standard, such as complex queries, advanced indexing, and native support for JSON, XML, and other data types.
+?  Good working knowledge in NumPy, pandas, and scikit-learn for data science, Django and Flask for web development, and Pytest for testing.
+?  Experience in Developed Maven & ANT scripts in to build and deploy J2EE Applications.
+?  Experience in using Web/Application Servers like IBM WebSphere 7.0, Apache Tomcat and JBoss, BEA WebLogic.
+?  Experience in Web scraping: Python, Beautiful Soup, Scrapy, data extraction, web crawling, API integration, automation, data analysis.
+?  Experience using tools like JIRA, Confluence.
+?  Following Domain Driven Design approach for the Microservices and API/Endpoints to facilitate reusability and maintenance.
+?  Expertise in unit-testing with tools like JUnit, Mockito, Spock, Testing and Integration testing tools like Selenium Web Driver, Cucumber (Behavior Driven Development testing).
+
+TECHNICAL SKILLS
+Programming LanguagesJava 8/11 /J2EE, C, C++, SQL, PL/SQL, Python
+Java APIsJ2EE, EJB, Servlets, JSP, JSTL, Custom Tag Libraries, JAX-RPC, JDBC, JNDI, JMS, JAXB, JUnit, Mockito, AWT, Spring MVC, Hibernate, Spring AOP, Spring DAO, Spring Core, Spring Security, Spring REST, Spring Boot, JPA, Log4j, Apache Kafka,.
+FrameworksSpring, Hibernate, MEAN Stack, Scala
+Scripting LanguagesJavaScript, TypeScript, jQuery
+Web TechnologiesHTML/HTML5, XML, CSS/CSS3, Bootstrap, JSP, Ajax, NodeJS, Express, ReactJS, AngularJS, Angular 2.0 and above
+Web/Application ServersApache Tomcat, WebSphere, WebLogic, JBoss
+IDE sVisual Studio Code, Eclipse, STS, NetBeans, IntelliJ, IBM RAD, WSAD
+DatabasesOracle, MySQL, NoSQL, MongoDB
+Operating SystemsWindows, MacOS, Unix, Linux (Ubuntu, Red Hat)
+Version ControlCVS, Clear Case, SVN, GitHub, Bitbucket
+MethodologiesAgile, Waterfall
+Other Software ToolsMS Office, Visio, Adobe Photoshop, HPALM, JIRA
+Build ToolsMaven, Gradle, Ant
+Scraping toolsPython, Beautiful Soup, Scrapy, and Selenium
+
+EDUCATION:
+
+?  Bachelors in computer science and engineering from GITAM, India.
+PROFFESIONAL EXPERIENCE
+Client: Albertsons, Pleasanton, CA June 2023- Present
+Role: Sr. Java Full Stack Developer
+Responsibilities:
+?  Led cross-functional teams in Java and Node.js projects, overseeing the entire software development life cycle from conception to deployment. Implemented cloud native applications using Spring Cloud to take the advantages of cloud ecosystem.
+?  Utilized Google Cloud Platform services such as Compute Engine, Cloud Storage, and Cloud SQL for deploying, scaling, and managing web applications efficiently.
+?  Utilized Docker for containerization and Kubernetes for orchestration to create scalable and resilient microservices architectures on GCP.
+?  Implemented logging, monitoring, and alerting solutions using Stack driver to ensure the reliability and health of applications deployed on GCP.
+?  Managed and maintained multiple relational database management systems (RDBMS), including MySQL, PostgreSQL, and Microsoft SQL Server, ensuring optimal performance and data integrity.
+?  Spearheaded the maintenance and enhancement of software post-deployment, ensuring optimal performance and scalability in line with evolving business requirements.
+?  Developed RESTful APIs and microservices using Python (Flask/Django) and Java (Spring Boot), facilitating seamless communication between frontend and backend systems.
+?  Implemented data processing and analysis pipelines in Python using libraries such as Pandas, NumPy, and SciPy, and integrated them with Java-based applications to enable data-driven decision-making.
+?  Implemented best practices for software development, including version control, code reviews, and automated testing, resulting in high-quality, reliable software solutions.
+?  Collaborated with stakeholders to define project requirements, scope, and timelines, effectively managing expectations and delivering solutions on schedule and within budget.
+?  Experienced in azure cloud and used various azure cloud platform like cosmos DB , function apps etc.
+?  Leveraged expertise in multiple front-end and back-end technologies, including Java, Node.js, Angular 12, and React, to develop responsive and user-friendly web applications.
+?  Utilized a variety of tools and frameworks, such as Terraform for infrastructure-as-code and Ansible for orchestration, to streamline deployment processes and enhance operational efficiency.
+?  Demonstrated proficiency in database management, utilizing MySQL and MongoDB to design, implement, and optimize data storage solutions for improved performance and scalability.
+?  Provided technical leadership and guidance to development teams, fostering a collaborative environment focused on innovation and continuous improvement.
+?  Conducted thorough analysis, testing, and debugging of software applications, ensuring compliance with quality standards and regulatory requirements.
+?  Adapted quickly to changing technologies and industry trends, continuously enhancing skills and knowledge to stay at the forefront of software development practices.
+
+Client: Charter communications, Rancho Cucamonga, CA Sep 2020 May 2023
+Role: Sr. Java Full Stack Developer
+Responsibilities:
+?  Migrated existing Monolithic architecture to full-fledged Microservices architecture using Spring Boot & Spring Cloud in multiple stages.
+?  Implemented cloud native applications using Spring Cloud to take the advantages of cloud ecosystem.
+?  Designed GUI using JavaScript, Bootstrap, HTML5, DOM, XHTML, AJAX, CSS3, jQuery and Angular 7/8/11.
+?  Developed powerful Single Page Application and dynamic responsive Web Application with Angular 7.
+?  Designed Angular 7 Template basics, Template directives, Routing and navigation, Components, Services and Data Binding.
+?  Developed chat applications using technologies such as XMPP protocol, WebSockets, and Java 8.
+?  Implemented real-time messaging features, user authentication, and message encryption to ensure secure communication channels.
+?  Successfully designed and implemented Java-based customizations in Flexcube to enhance [specific functionality or business process] by [percentage improvement or positive outcome.
+?  Designed and maintained scalable web applications with Python (Django/Flask) and Java (Spring MVC), ensuring high performance and reliability in handling concurrent user requests.
+?  Experience in Risk Management, conducting detailed risk assessments by analyzing documents, statistics, reports and market trends, Proactively managing financial, regulatory and operational risks, defining risk appetite.
+?  Leveraged Python's scripting capabilities to automate repetitive tasks and streamline workflow processes, enhancing productivity and reducing manual intervention in development and deployment pipelines.
+?  Experience building scalable and robust web applications using Node.js
+?  Strong proficiency in Node.js and its core principles, such as event-driven architecture and non-blocking I/O
+?  Familiarity with popular Node frameworks and libraries such as Express, Socket.IO, and Mongoose
+?  Understanding of Node testing frameworks such as Mocha and Chai
+?  Experience with server-side rendering and RESTful API design
+?  Knowledge of database technologies such as MongoDB.
+?  Assist in the development of technology roadmaps to evolve the API estate in conjunction with internal and external solution providers.
+?  Implemented Core Java concepts like Multithreading, Collections, I/O, Generics, Exception Handling for complex business requirements.
+?  Implemented APIs and Microservice development using technologies like Java, Oauth, Apigee, and Swagger.
+?  Implemented Java 11 features such as running file with single command ,new utility method in string class, nested based access control.
+?  Implemented Java 8 features such as lambda expressions, filters, Parallel operations on collections for effective sorting mechanisms.
+?  Worked with GCP for Integrating with other Google services, such as Google Cloud Storage, Google BigQuery, and Google Kubernetes Engine, as well as with third-party services.
+?  Processed and stored data using Java 8 features like Streams & Lambda expressions and design Singleton, Data Access Objects, Factory and MVC design patterns.
+?  Implemented and enhanced java based multithreading ETL tool for distributed loading XML data into Oracle database using JPA/Hibernate.
+?  Experience building interactive and responsive web applications using React
+?  Strong proficiency in React and its core principles, such as JSX, Virtual DOM, and state management
+?  Familiarity with popular React libraries and tools such as Redux, React Router, and Styled Components
+?  Expertise in Cassandra Data Model which is based on tables with rows and columns. When designing a Cassandra data model, it is important to consider the queries that will be performed on the data. This means designing tables to support the queries rather than normalizing data.
+?  Developed microservices application using Spring Boot and test the application with Spring Boot.
+?  Used Spring MVC for developing Restful APIs (web services), Spring Boot for microservices & Spring Core annotations for Spring Dependency Injection.
+?  Used popular Scala frameworks and libraries such as Akka, Play Framework, or Spark.
+?  Used Spark features such as Scalability, Interoperability, Concise syntax, Functional programming constructs.
+?  Involved in the development of underwriting process, which involves communications without side systems and developed message Driven Beans for receiving and processing data using IBM MQ & JMS.
+?  Used Eclipse for developing JSPs, Servlets, Struts and with IBM WEB SPHERE server Look for people work with IBM WebSphere server and MQ 7.0, JDBC, JNDI and MDB.
+?  Used JWTs in various ways in a web project for implementing authentication and authorization.
+?  Implemented POJO s & DAO s for the database entities using Spring JDBC annotation mappings.
+?  Implemented the authentication and authorization of the application using Spring Security and OAuth2.
+?  Experience with API management platforms such as Layer 7 or a comparable product is
+?  Worked on Swagger API and auto-generated documentation for all REST calls.
+?  Implemented persistence layer using Spring JDBC template to store the data in Oracle database.
+?  Worked with PostgreSQL which supports many features beyond the SQL standard, such as complex queries, advanced indexing, and native support for JSON, XML, and other data types.
+?  Involved in maintaining and updating the procedure for ETL process.
+?  Used Oracle as database and Involved in the development of PL/SQL backend implementation and using SQL created CRUD, Views, Joins, Indexes, and Procedures statements.
+?  Implemented Spring boot microservices to process the messages into the Kafka cluster setup.
+?  Developed Mockito and JUnit test cases to improve code coverage.
+?  Used Quasar,Vue.js to render the dynamic data in DOM.
+?  Developed and performed test cases using Jasmine and Karma for front end unit testing and used the Cucumber, Protractor and Http-server for the end to end testing.
+?  Used servlets to handle user requests for web pages, form submissions, and other interactions with a web application.
+?  Created JSON request and validated the response using postman Interceptor and Swagger UI.
+?  Setup CI/CD pipeline process for the application using the Jenkins.
+?  Changing the AWS infrastructure Elastic Beanstalk to Docker with Kubernetes.
+?  Moving existing monolithic architecture to microservices and migrating them to AWS cloud.
+?  Used AWS Services platform to upload data into AWSS3 buckets and creating EC2 instances.
+?  Apache Maven tool has been used for the build and deployment of the application.
+?  Monitored the Error logs using Log4j and fixed the problems.
+?  Participated in a Scrum team and Agile Practices including Test Driven Development (TDD), Behavior Driven Development (BDD) and pair programming.
+
+Environment: Java 8.0, Spring 4, Hibernate 4.2, Spring batch, Spring Boot, Spring Security, JPA, JMS, HTML5, CSS3,
+Quasar,Vue.js,Angular 7, Cryptography, Eclipse, Oracle 10g, Swagger UI,AWS, Docker, Log4j, JIRA, Pure XML, Web Services, Kafka, Microservices, REST UI, Apache Spark.
+Client: Cuna mutual group, Madison, WI.  Oct 2018 Aug 2020
+Role: Sr. Java Full Stack Developer
+Responsibilities:
+?  Understand and adopt Microservices architecture to gradually replace a core monolithic application to Microservices.
+?  Actively participated in the Analysis, Design, Development and Testing phases of various modules.
+?  Developed the components using Angular 7/5/4 needed for the application from the scratch and customizing from various Angular related libraries to meet the application's functionality.
+?  Implemented latest Ecmascript6 (ES6) features like arrow functions, constants, block-scope variables and class inheritance etc.
+?  Used Angular 7 Http services for asynchronous validations for the input fields of the forms with the data existed in the database.
+?  Used the Beautiful Soup Python Library to extract desired data from a given URL an automated way. ? Reverse engineered web technologies like JSON & Ajax to provide organized bid data.
+?  Expertise in spring based microservices, and enabled discovery using Eureka Server.
+?  Designed and developed RESTful Web Services using Spring Boot.
+?  Developed server-side application to interact with database using Spring Boot and Hibernate.
+?  Developed RESTful Services with Java using JAX-RS, Jersey and Spring Boot.
+?  Coding for consuming the REST APIs, getting JSON response, and parsing them to get the required formats.
+?  Develop API services in an Agile environment.
+?  Implemented Docker features such as Containerization, Portability, Efficiency, Scalability, Isolation etc.
+?  Developed Datamodels,Partitioning,Replication,Consistency,Compaction,Tuning,Operations,CQL using Cassandra.
+?  Used Oauth, Swagger and Apigee for developing APIs and Microservices in the healthcare project.
+?  Proficient in integrating data from various sources, including databases, APIs, flat files, and cloud-based services.
+?  Experience with ETL (Extract, Transform, Load) tools such as Informatica, Talend, and Pentaho for moving and transforming data between different systems.
+?  Strong knowledge of SQL for querying and manipulating data from relational databases such as MySQL, PostgreSQL, and Oracle.
+?  Developed a web scraping tool using Python and Beautiful Soup to extract data from various e-commerce websites, resulting in a 30% increase in sales for the company.
+?  Built a custom web crawler using Scrapy to collect data from social media platforms and analyze user sentiment, providing valuable insights to the marketing team.
+?  Proficient in Hadoop Distributed File System (HDFS) for storing and processing large volumes of data across multiple nodes.
+?  Experience with MapReduce, a programming model for processing and analyzing large datasets in parallel across a Hadoop cluster.
+?  Familiarity with YARN (Yet Another Resource Negotiator), which is the resource management layer of Hadoop that enables cluster management and job scheduling.
+?  Created inbound and outbound API projects and setup base projects for middle-ware services as part of the migration plan from mule to Spring Boot. Developed Restful Microservices using Spring Boot and Rest Easy framework
+?  Developed chat applications using technologies such as XMPP protocol, WebSockets, and Java 8.
+?  Used JWTs for API authentication, Single Sign-On, User authentication, Authorization and access control
+?  Developed user interface by using the React JS, Flux for SPA development.
+?  Managed and administered multiple RDBMS platforms, including MySQL, PostgreSQL, and Microsoft SQL Server, ensuring optimal performance and reliability for critical business applications.
+?  Implemented React JS code to handle cross browser compatibility issues in Mozella, IE 7, 8, 9, Safari and FF.
+?  Used React-Router to turn application into Single Page Application.
+?  Implemented stable React components and stand-alone functions to be added to any future pages.
+?  Worked in using React JS components, Forms, Events, Keys, Router, Animations and Flux concept.
+?  Developed modules using Core Java APIs, Collections, Java 1.8 (Streams), Jordan API(Dates), Multi-threading, Exception Handling, Generics, Enums, Java I/O and object-oriented designs patterns.
+?  Used Hibernate and Mark Logic, writing service methods and SQL queries to interact with the MySQL DBMS.
+?  Managed Eureka Client, Eureka Server, Eureka Instance, Eureka Service through Spring Boot.
+?  Expertise in implementing Microservices Architecture using Boot Application, Eureka Discovery Service, Eureka Client, REST, SOAP, JPA, Hibernate.
+?  Deploy the application on Amazon Web services (AWS) and used AWS connect, AWS Lambda, AWS LEX.
+?  Use Amazon Cloud Watch to monitor AWS sweb services & Amazon Cloud Watch logs to monitor the application.
+?  Installed application on AWS EC2 instances and configured the storage on S3 buckets.
+?  Co-ordinated with QA lead for development of test plan, Test management and defect management.
+?  Hands-on experience in using message brokers such as ActiveMQ and RabbitMQ.
+?  Integrating various Version control tools, build tools and deployment methodologies into Jenkins to create an end-to-end orchestration build cycles.
+?  Worked with Python Scripting, NumPy, pandas, and scikit-learn for data science, Django and Flask for web development, and Pytest for testing for some modules in application.
+?  Used Python on scripting to interact with cloud services like AWS and Azure.
+?  Used Jenkins to execute the Maven project as well to build the version system tool.
+?  Developed JUnit test cases for Persistence layer and Business layer to perform the unit level testing.
+?  Configured Log4j for adding the debugging information in the code base.
+?  Used SVN for version control.
+?  Involved in Agile stand up meetings throughout the project with team members on day to day basis for the update on project status using JIRA and HP ALM.
+?  Used Spring Batch for scheduling and maintenance of batch jobs. Deployed the application in various environments DEV, QA and also Production.
+?  GIT used for defects, change tracking across the application.
+?  Wrote Junit test cases and ANT as a build tool for the services and prepared documentation.
+?  Integration testing, bugs fixing, handling change requests and code reviews.
+?  Used Splunk logging for tracking, application monitoring and for security and compliance
+?  Used Version one and confluence for documentation, planning, tracking work, reporting across teams.
+?  Involved in functional test of the application and tested Java applications using Functional Testing, Jobs and Log statements.
+Environment: Java 8.0, Spring 4, Hibernate 4.2, Spring Batch, Spring Boot, JPA, JavaScript, Angular 7, React JS, HTML5, CSS3, Eclipse, Drools, JBPM, MySQL, ILOG, log4j, Junit, AWS, TestNG, TypeScript, Selenium, Easy Mock, RabbitMQ, XML, Web Services, SOAP UI.
+Client: CVS Caremark, Southborough| MA Sep 2016 Sep 2018
+Role: Java Full Stack Developer
+Responsibilities:
+?  Involved in Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM) in a test-driven development (TDD) approach.
+?  Worked in using React JS components, Forms, Events, Keys, Router, Animations, and Flux concept.
+?  Worked on responsive design and developed a single ISOMORPHIC responsive website that could be served to desktop, Tablets and mobile users using React.js.
+?  Worked on React JS Virtual Dom and React views, rendering using components which contains additional components called custom HTML tags.
+?  Led database migration projects, successfully transitioning data and applications from legacy systems to modern RDBMS platforms while minimizing downtime and ensuring data integrity.
+?  Worked on Docker which provides a consistent environment for applications to run in, regardless of the underlying infrastructure.
+?  Implemented various screens for the front end using React.js and used various predefined components from NPM (Node Package Manager) and redux library.
+?  Worked with  Alfresco modules such as Records Management, Workflow, or Content Authoring.
+?  Worked with integrated Alfresco with other systems such as SharePoint or Salesforce.
+?  Worked on GLP and CLIA and also have Molecular Biology and Bioinformatics.
+?  Developed and designed the web interface using HTML5, CSS3, JavaScript, Angular 2 and Bootstrap.
+?  Provided technical assistance during community discussions for educating developers about API applications.
+?  Built Components using Angular 2 and worked on Angular directives. Implemented lazy loading and Dynamic loading in the Angular routers. Worked on Typescript for building the code.
+?  Used Cassandra for java integration,High Write Throughput, Scalability, Fault Tolerance, Flexibility.
+?  Developed prototype and project layout skeletons using Angular 2, HTML5, and CSS3.
+?  Implemented Microservices into existing system architecture. Developed Microservices business components and RESTful service endpoints using Spring Boot.
+?  Developed multiple enterprise applications using Spring Boot, Hibernate framework, Spring IOC, Spring MVC, Spring JDBC, Spring Annotations, Spring AOP, Spring Integration, frameworks, RESTful webservices.
+?  Implemented authentication and authorization for the application using Spring Security and Oauth2.
+?  Worked on Java 8 Lambda expressions and Pipelines, Streams.
+?  Worked on some of the new features of Angular 2 slike new if else syntax, ng-templates, and form validators.
+?  Implemented Spring IOC for Dependency Injection and to make the code loosely coupled and Spring AOP for logging purposes.
+?  Worked with Python Scripting, NumPy, pandas, and scikit-learn for data science, Django and Flask for web development, and Pytest for testing for some modules in application.
+?  Worked on GCP to scale up resources up or down based on demand, allowing businesses to be more agile and responsive to changing needs.
+?  Implemented SOAP based JAX-WS Web services interfaces for integrating multiple systems, code re-usability and consumed JMeter to test performance of SOAP protocol.
+?  Implemented RESTful web services which produces both XML and JSON files to perform tasks, RESTful web service using Jersey for JAX-RS implementation, which leveraged both web & mobile applications.
+?  Worked on creating, retrieving, updating and deleting documents in MongoDB.
+?  Configured JMS server setup, DB connection setup & deployed Returned items in Web Sphere Server.
+Setup the Continuous Integration (CI) & Continuous Development (CD) for the application using Jenkins.
+?  Worked on Jenkins for continuous integration with Gradle and GitHub.
+?  Used Log4j for validate functionalities and JUnit for unit testing.
+?  Implemented configured JIRA issue tracking software with Agile plug-in across all the company functions.
+?  Used IntelliJ IDEA IDE tool for application development.
+Environment: Java 1.8, J2EE, HTML5, CSS3, JavaScript, Angular 2, TypeScript, Bootstrap, Spring Boot, Spring IOC, Spring MVC, Log4j, SOAP, RESTful, Microservices Architecture, XML, AWS, Mongo DB, CI/CD, Maven, IntelliJ IDE, JUnit, JMS, UNIX, Jenkins, JIRA, Log4j, Git.
+Client: Truven Health, Denver, CO  Mar 2015 Aug 2016
+Role: Java Developer
+Responsibilities:
+?  Implemented data maintenance UI screens to maintain Default Settlement Cycle for Equity, Fixed
+?  Involved in code build and deployment activities to Test and Stage environments.
+?  Involved in preparation of DB scripts to deploy DB components.
+?  Supported and participated in test cycles for 'Trading Data Maintenance' application UI.
+?  Participated in code merge activities for trading data maintenance application release to Prod and Non-Prod environment.
+?  Developed dynamic web applications using PHP and MySQL, leveraging the Model-View-Controller (MVC) architectural pattern for organized and scalable code bases.
+?  Participated with BA to analyze existing data &business process logic related to validation of given Trade Date and Settlement Date combinations for different asset class & security types that is present in existing database stored procedure and participated documenting the same.
+?  We build, deploy, and manage applications and services on the Google Cloud Platform (GCP).
+?  Implemented and improved existing business process logic (modified existing database procedure) to validate given Trade Date and Settlement Dates as per client account criteria.
+?  Implemented test harness tool to automate scenario testing process for testing of Trade Date and Settlement Date validation logic present in database stored procedure.
+?  Participated and supported test cycles to capture various business test scenario for the automated test harness tool.
+?  Participated in creating required support documents for Trade Date and Settlement Date validation logic.
+Environment: Tomcat, Groovy/Grails, Java1.5, JSP2.0, Servlets2.4, EJB2.0, Struts1.2, Spring 2.0.3, JDBC3.0, Design patterns, Html, XML, CSS, Log4j, Ant, SOAP, Web services, RAD6.0, IBM WebSphere server6.1, IBM DB29.0, VSS, Accurev, Junit, Maven.
+Client: AutoZone, Dallas,Tx Oct 2013- Feb 2015
+Role: Java Developer
+Responsibilities:
+?  Involved in architecting various Business Layer and Data Management components of this multi-tiered web-based system over J2EE architecture, EAI and TIBCO.
+?  Designed and developed the messaging framework for communication between workflow manager and other Enterprise Applications over XML and MQ-Series using JAXB 1.0.
+?  Responsible for developing and maintaining all the entity and session beans.
+?  Involved in writing ANT script for application deployment.
+?  Developed various Customer and Network capacity flows. Developed various server-side components using J2EE and TIBCO APIs.
+?  Developed and deployed EJB components (business tier) into the WebSphere Application Server (WAS).
+?  Designed the Metrics module and developed all the components of that. Also developed Metric Event Listener engine based on TIBCO APIs to capture In-Concert based events.
+?  Responsible for Web Logic administration, maintenance, and performance tuning.
+Environment: J2EE, JSP, Java Beans, HTML, JavaScript, ANT, Tomcat Web server, Oracle 9i, MS Visual SourceSafe.
+Client: Tech Vedika Software Pvt Ltd - India  Aug 2012 - Sep 2013
+Role: JAVA Developer
+Responsibilities:
+?  Used Eclipse in developing different J2EE components.
+?  Used Servlets, JSPs and Struts framework.
+?  Used Machine learning models like KNN, Random forest, Decision tree etc.
+?  Actively coordinated meetings and followed up with the clients for gathering project requirements and specifications.
+?  Analyzed the requirements and designed the ER diagrams in accordance with the specifications.
+?  Responsible for developing some of the PHP based frameworks.
+?  Developed the programs using HTML, JSP, XML, and Servlets.
+?  Responsible for executing the JAVA web applications on application server.
+?  Developed SQL Queries and stored procedures in SQL Server for retrieving the data from the database.
+?  Extensively used the JSP in the view side of MVC.
+?  Preparing the design documents and review with analysis team, development team and testing team.
+Environment: Struts, MVC, Java, J2EE, JavaScript, HTML, JSP, Ajax, Servlets, XSL, XML, JNDI, Web sphere, Eclipse, Apache Tomcat, SQL Server, PHP, JDBC.
+
+-----END OF RESUME-----
+
+Krishna S
+Hayward California
+United States
+E-mail: mo4-79y-b27@mail.dice.com
+Phone: 6282723305
+
+Current Job Title: Full Stack Java Developer
+Desired Job Title: Full Stack Java Developer
+Work Authorization: US Citizen
+Employment Type: Contract - Corp-to-Corp, Contract - Independent, Contract to Hire - Corp-to-Corp
+Willing to Relocate: Yes
+Social Profiles:
+Dice: https://www.dice.com/employer/talent/profile/288a31bffc2e22acdec154ec96d5e030Likely To Move: Yes
+Likely To Move Score: 100%
+Third Party: No
+Years of Experience: 1
+Current Experience: 6/2023 to Present, Full Stack Java Developer, Albertsons
+
+Employment History:
+6/2023 to Present
+Full Stack Java Developer, AlbertsonsSkills:
+java: 11 years, last used in 2024
+architecture: 10 years, last used in 2024
+database: 10 years, last used in 2024
+framework: 10 years, last used in 2024
+qa: 10 years, last used in 2024
+api: 9 years, last used in 2024
+software: 9 years, last used in 2024
+ui: 9 years, last used in 2024
+software deployment: 8 years, last used in 2024
+angularjs: 7 years, last used in 2024
+django: 7 years, last used in 2024
+flask: 7 years, last used in 2024
+python: 7 years, last used in 2024
+restful: 7 years, last used in 2024
+scalability: 7 years, last used in 2024
+software development: 7 years, last used in 2024
+spring: 7 years, last used in 2024
+documentation: 9 years, last used in 2023
+xml: 9 years, last used in 2023
+scripting: 8 years, last used in 2023
+
+Harvested Resume from Dice
+f72b6ecfe830e52a594f40f3e03dec83d8000c68
+Name=Krishna S

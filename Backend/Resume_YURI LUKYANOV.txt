@@ -1,0 +1,97 @@
+Professional Experience ContinuedYuri V. Lukyanov(626) 404-9279 |yuril@email.com| Pasadena, CA 91107| LinkedInSENIOR DATA ARCHITECTInnovative, results-focused, detail-oriented Senior Data Architect with substantial data modeling, data management, and data architecture experience across diverse industries such as banking, automotive, utilities, telecom, insurance, and advertising, offering unique blend of business acumen and technological expertise. Excels in communicating complex technical concepts to non-technical stakeholders.  Possess deep understanding of business processes, finance, and marketing, allowing design of effective business solutions while leveraging latest technologies.  Specialize in data modeling and application of data for ML / AI, with mastery in relational databases, ETL tools, cloud services, and BI platforms.  Skilled in managing offshore development teams and fostering strong business relationships with software and services vendors.Skills ProfileArtificial Intelligence / Machine Learning Leadership & Team Building Data Modeling / Data IntegrationHuman Capital Management Data Warehousing Extract-Transfer-Load (ETL)Cloud-based Data Platforms Offshore Team Management Business Intelligence (BI)Strategic Planning & Data Analysis Project Management Software Development LifecyclePROFESSIONAL EXPERIENCECapgemini | San Jose, CA 4/2019   4/2024Senior Delivery ArchitectProvided data and insights architecture projects for leading international auto manufacturing clients. Implemented advanced data transformation technologies to leverage ML / AI tools for analysis and management of automobile sales incentives, handling budgets of up to $2 billion annually. Successfully managed offshore development teams and actively contributed to research and creation of multiple RFPs across various sectors, including automotive, energy, finance, and engineering.  Delivered data architecture project for major international software and cloud service company in collaboration with Sogeti (a division of Capgemini), implementing semantic data models to improve customer analytics and integrate recently acquired businesses.  Recommended improvements for managing external organizations  data feeds and drafted roadmap for business intelligence as part of data architecture project for major international software and cloud services company.  Sped up very slow delivery of client data by engaging offshore personnel to explore data findings, cutting the number of meetings, and requesting more written communication from client, resulting in nearly meeting project schedule.  Turned around stalled project managed by sister organization in Europe by studying requirements and recommending using domain-specific model to map data in multiple client systems to cohesive structure, bringing project back on track.Auto Club of Southern California | Costa Mesa, CA 12/2014   4/2019Enterprise Data ArchitectLed overhaul of logical and physical data architectures for both data lake and traditional data warehouse systems, employing various levels of data abstraction and publishing enterprise data dictionaries. Implemented industry-standard data models for CRM, human resources, and property & casualty insurance, ensuring highest data quality and reporting standards, recognized by senior management and business stakeholders. Introduced and mastered architecture tools such as Sparx EA and Abacus to develop and share IT roadmaps and scorecards. Performed technology assessments, software evaluations, and selections by aligning with business context and requirements, implementing commercial software solutions.Top of FormPioneered enterprise adoption of cloud data storage and analysis technologies, leading proof-of-concept initiatives with AWS Redshift and MS Azure.  Managed development and implementation of consolidated Enterprise Payments Datamart for all cash register (~2000 POS devices), check remittance, and payment card processing information, enabling drill down from aggregated revenue (~$5 billion annually) to each individual payment transaction to track insurance fraud and irregular payments.  Implemented model-driven data payload structures to replace traditional point-to-point integration with modern enterprise service bus architecture, significantly improving cross-platform integration, boosting system performance, saving weeks of time, and streamlining upgrades.  Realized $1.2M+ in cost savings by deploying optimal mix of in-house and commercial applications for analyzing customer sentiment and driver behavior with AI and machine learning algorithms.Southern California Edison | Irwindale, CA 10.2010   10/2014Enterprise Information ArchitectProvided expert data modeling guidance to project teams across various domains, including asset management, real estate, human resources, cybersecurity, regulatory affairs, and compliance, supplying conceptual, logical, and physical models. Initiated and maintained use of enterprise semantic data model based on CIM and physical models. Initiated and maintained use of enterprise semantic data model based on CIM (international standard information model for electric utilities, significantly reduction project costs by integrating applications in major functional areas such as energy trading, transmission, and distribution.Top of FormAchievement Highlights:  Significantly reduced project costs by initiating and maintaining use of enterprise semantic data model based on CIM and integrating applications in major functional areas, such as energy trading, transmission, and distribution.  Played key role in enterprise Data Governance program, reviewing large technology programs from data perspective, researching industry best practices, and preparing presentations to ensure organization s data integrity and compliance.ADDITIONAL EXPERIENCESenior Manager, CENR Global Applications | Computer Sciences Corporation (CSC) | Rosemead, CAData Architect | Edmunds.com | Santa Monica, CAEDUCATIONMaster of Business Administration | Harvard University | Cambridge, MAMaster of Science in Economics / Computer Science (Cum Laude) | Lomonosov Moscow State University (MSU) | Moscow, RussiaCERTIFICATIONSTOGAF 9.1 | The Open GroupSAP Data Services | SAPSAFe  Agile Framework 6.0 | Scaledagile.comTECHNICAL SKILLSEssential Software | Tableau, Hadoop, Guidewire, UltiPro, Workday, RapidMiner, Databricks.Database Management Systems | Microsoft SQL Server, Oracle, SQL, Redshift.Additional Tools | Microsoft Office, Guidewire, Palantir.(626) 404-9279 |yuril@email.com| Pasadena, CA 91107| LinkedIn Lukyanov | 1-----END OF RESUME-----
+
+Name: YURI LUKYANOV
+Pasadena, CA, United States
+Phone: 6264049279
+Email: gol-o2b-ok7@mail.dice.com
+
+Education
+
+Instituation: HBS
+Degree: Masters
+Location: Boston
+
+Experience
+
+Years Of Experience: 16
+
+Current Work Company: Capgemini
+Current Work Position: Senior Delivery Architect
+Current Work Start Year: 2019
+
+Company: Capgemini
+Position: Senior Delivery Architect
+Start Year: 2019
+Location:
+
+Company: Automobile Club Of Southern California
+Position: Senior Enterprise Data Architect
+Start Year: 2014
+Location:
+
+Company: SOUTHERN CALIFORNIA EDISON
+Position: Enterprise Information Architect
+Start Year: 2010
+Location:
+
+Company: Computer Sciences Corporation
+Position: Senior Manager
+Start Year: 2008
+Location:
+
+Authorization: US Citizen
+Desired Position: Data Architect, Information Architect, Business Intelligence Manager
+Desired Salary:$180000 USD
+Desired Hourly Rate:$125 USD
+Willing to Relocate: No
+
+Work Permit Locations: US
+
+Skills:
+data modeling: 13 years, last used in 2024
+business intelligence: 12 years, last used in 2024
+data architecture: 12 years, last used in 2024
+cloud: 9 years, last used in 2024
+data governance: 9 years, last used in 2024
+leadership: 9 years, last used in 2024
+automotive: 8 years, last used in 2024
+agile methodologies: , last used in 2024
+business intelligence tools: , last used in 2024
+business process: , last used in 2024
+customer relationship management: , last used in 2024
+data integration: , last used in 2024
+data warehouse architecture: , last used in 2024
+data warehousing: , last used in 2024
+databases: , last used in 2024
+digital marketing: , last used in 2024
+enterprise architecture: , last used in 2024
+enterprise software: , last used in 2024
+erp: , last used in 2024
+etl: , last used in 2024
+hadoop: , last used in 2024
+it management: , last used in 2024
+it strategy: , last used in 2024
+management consulting: , last used in 2024
+marketing: , last used in 2024
+microsoft office: , last used in 2024
+microsoft sql server: , last used in 2024
+oracle: , last used in 2024
+solution architecture: , last used in 2024
+sql: , last used in 2024
+strategy: , last used in 2024
+tableau: , last used in 2024
+telecommunications: , last used in 2024
+implementation: 9 years, last used in 2019
+reporting: 7 years, last used in 2019
+crm: 6 years, last used in 2019
+data warehouse: 6 years, last used in 2019
+senior management: 6 years, last used in 2019
+management: 16 years, last used in 2016
+database architecture: 12 years, last used in 2016
+research: 7 years, last used in 2014
+energy: 6 years, last used in 2014
+
+Downloaded Resume from Dice
+3901288e179da296e7cdd108d2eff835105afcd3
+
+

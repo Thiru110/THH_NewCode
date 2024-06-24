@@ -1,0 +1,194 @@
+Sai Teja
+Microsoft Certified Dynamics 365 Techno-Functional Consultant
+
+Current Location: Jacksonville, Florida. 32218
+Relocation: Yes, Ready for Day 1 Onsite all over USA 
+
+For C2C Please call on 4696407301
+
+Please share only c2c requitements on my Email: krishnabenchsales10@gmail.com
+LOOKING ONLY C2C Positions 
+We will provide you with I94 and Passport number and Travel history for the submission.
+ 
+
+ 
+          INTEGRITY. EMPATHY. HARDWORK. PERSEVERANCE. ETHICS. MORALE 
+ 
+ 
+EXPERIENCE   SUMMARY:
+ 
+?         Working on Microsoft Dynamics 365 since 2015 (8 Years of having good exposure and experience in functional and technical).
+?         Conducted GAP analyses to determine differences between Application and Business processes.
+?         Handled and organized ticket management systems using ServiceNow, Azure DevOps, Spiceworks and TFS, with numbered priorities and duplicate ticket eliminations.
+?         Design, architecture and execution in corporations and relocations between Dynamics 365 and an assortment of items. 
+?         Configuring application as suitable to comply with business process definition including application customization, work process altering, and report writing.
+?         Creating documentation to characterize work process and prerequisites. 
+?         Designing custom reports, dashboards, SQL contents or triggers. 
+?         Developing end client preparing documentation for end-user knowledge base.
+?         Setting up User-Security with role profile logins using custom permissions sets and groups.
+?         Configuring Rapid start services  sheets/packages for data import and export.
+?         Knowledge and experience in Financial Reporting.
+?         Development, customization, application movement, Testing and Deployment for NAV (NAV 5.0, 2009, 2013, 2015 and 2017). 
+?         Upgrading/Migrating between NAV versions and to Dynamics 365 Business Central BC versions.
+?         Knowledge on WSB (Windows Service Bus) & TFS (Team Foundation Server).
+?         Prioritize and resolve user requirement in a convenient way and on time.
+ 
+EDUCATION:
+?         Bachelor of Technology   Computer Sciences   JNTU-Hyderabad   2013.
+?         Master of Science   Software Engineering   Stratford University   2015.
+?         Executive Masters   Computer Information Security   New England College   Current.
+ 
+SKILLSET - SUMMARY:
+?         Roles   Techno-Functional Consultant, Technical Consultant, Business Analyst/Consultant.
+?         Languages   C/Side/CAL, C, Basic HTML.
+?         Technology   Microsoft Dynamics 365 NAV, Business Central
+?         OS   Dos, Windows Family
+?         Tools   Navision Developer s Toolkit, Beyond Compare, NAV for reports.
+?         Management  ISVr Activities, MSDN portal management.
+?         Microsoft Stack   Good understanding on VB.Net, C#, ASP.Net, XML, SQL Server etc.
+ 
+PROJECTS   PROFESSIONAL EXPERIENCE:
+ 
+ELYSYS Finance, Monaco                                                                            Apr 2022   September 2023
+Role: Dynamics 365 BC Financial systems consultant
+Project: Dynamics 365 Business Central with Elysys Add-ons Implementation and support.
+ELYSYS is a global technology specialist in the Wealth, Portfolio and Asset management space, and is the company that pioneered the use of ERP applications in the financial services sector with a vision to bring innovative, comprehensive and cost-effective value proposition to global financial services industry. Elysys has multiple versions of NAV and BC running for worldwide clients to maintain their own unique financial profiles in and as an accounting system for their family offices. Elysys develops & implements Elysys Wealth & Elysys Loans extensions certified for Microsoft Dynamics Business Central.
+Responsibilities:
+?         Lead consultant for MS Dynamics 365 BC design & delivery to clients in the North American geographic   US, Canada.
+?         Involved in all phases of business from Sales demo calls of standard BC and Elysys Wealth features for prospective clients, Pricing and contracts, Scope analysis sessions, Project timeline planning, User training sessions, implementations and weekly maintenance stand-up calls.
+?         Obtained extensive knowledge in accounting and finance to build custom processes upon standard BC modules.  
+?         Coordinated with Functional and Dev teams to work on current, past/pending and upcoming change requests.
+?         Used ADO (Azure DevOps) for Sprint planning, User Stories and task distributions and tracking.
+?         Worked with functional consultants to implement standard set of test scripts for end user testing.
+?         Performed data migrations, client communication calls   Orientations, trainings, support, and developed end-user documentations for processes and procedures.
+?         Maintained clear and open communication among team members for a good co-ordination and tight deadline retention stats.
+?         Worked closely with DEV team to create and troubleshoot new and existing features for client accounting portfolios.
+?         Utilized opportunity to explore and work on EBG   Elysys Bank Gateway, an EDI interface establishing direct communication between BC and Client bank accounts.
+?         Manage User Logins, Roles and Access Management in Portal. 
+ 
+Public Consulting Group (PCG), Boston, MA, USA                                               Nov 2020   Feb 2022
+Role: Dynamics 365 Lead Software Engineer
+Project: NAV 2009 Maintenance   Development & Implementation.
+PCG-US has undertaken a migration project from NAV 2009 to Business Central. There existed a need for maintenance of the soon-to-be legacy Navision 2009 version, with development and testing for new requirement implementations and Change request implementations.
+Responsibilities:
+?         Obtained extensive knowledge and understanding of the Payroll module along with the heavy customizations that had been done over base functionality over the years.
+?         Lead the CR team with current, past/pending and upcoming change requests.
+?         Used ADO (Azure DevOps) for Sprint planning, GIT repos, pull requests, code reviews etc.
+?         Utilized SourceTree as GIT client interface for code pushing, pulling and branch creations for commits.
+?         Development and Testing on a typical day involved Dynamics 365 C/AL programming, SQL (scripts, storedprocs, configs), debugging (Navision & VS (ASP.Net & C#)), bug fixes, deployments etc.
+?         Maintained clear and open communication among team members for a good co-ordination and tight deadline retention stats.
+?         Oversaw Navision and SQL deployments during scheduled release timeframes handled by Release team.
+?         Utilized opportunity to explore and work on BetterOnline Web Portal, which is the end user UI to login and choose healthcare services, authorize/submit/approve timesheets etc.
+?         Manage User Logins, Roles and Access Management in Portal. 
+ 
+Stanley Black&Decker, Middle River, MD, USA                                                    Feb 2020   Sep 2020
+Role: Dynamics 365 Business Central Techno-Functional Consultant
+Project: NAV 5.0, 2009, 2015, 2017 and Dynamics 365 Application Maintenance, Support.
+SBD has partnered with HCL America for their ERP applications support and development. SBD has over 400+ instances of ERP applications spanning worldwide across various regions and businesses. This includes 11 instances of Dynamics 365 Business Central and Great Plains, which were supported in collaboration with an off-shore team. Many Knowledge sharing sessions were completed before handover.
+Responsibilities:
+?         Lead the off-shore support team from On-shore as a critical Dynamics 365 resource during the project phases.
+?         Organized many knowledge transfer, incident replication and observation sessions with Dynamics 365 and Business process SME S during the pre-handover phase.
+?         Created application runbook documentation along with associated functional and technical architecture specifications, instructions and diagrams, for all Dynamics 365 and Great Plains business applications.
+?         Oversaw all the knowledge sharing activities from a functional and technical point of view, made sure of application steady state, post-handover.
+?         Built/worked on a customized Released Production orders actuals process and custom tables associated with it, as per business requirement to be able to see a list of operations in the production order routing lines with setup time and run time information.
+?         Managed User Administration and Security setup with role specific user groups and permission sets with Easy Security Add-on.
+?         Implemented a customized Cross-Ship functionality for two companies in order to gain improved efficiency in Sales and Purchase transactions, utilizing a combination of Intercompany functionality and Drop-ship process.
+?         Experience with integrating E-Ship add-on in v5 and v2017, developed by Lanham associates, that provides an easy single  Pack Line scanning  screen for shipping team, improving efficiency.
+?         Lead a client migration team for a technical upgrade from their NAV v.2009R2 to Business Central v.14. (BC14)
+?         Experience with integrating Avalara tax add-on for Sales tax automation in NAV17.
+?         Exposure as part of a team while working with Preactor, a product of Siemens, which is an advanced schedule planning tool, to provide goods to customers on time, designed for use by purchase and production teams.
+?         Extensively worked on Rapidstart functionality with business users for various data imports/exports such as price loads, item master updates etc.
+?         Built custom XML/Data ports for data import, for example in Easy security, for importing user security permissions and user setup data in through a custom built text tab delimited format file.
+?         Knowledge on performance tuning by modifying NAV code and through SQL indexing scripts.
+?         Performed weekly and emergency SQL and Navision deployments, executing altered stored procedures and importing .fob objects. Subsequent experience with Change management process in ServiceNow, regarding change tickets, releases, planning and approval process.
+?         Acted as an Admin/owner of AD groups for adding/removing users from lists using an ADUC tool.
+?         Created, monitored and maintained various jobs in Navision along with other jobs in SQL and in a workload automation site  Autosys , which acted as a job scheduler.
+?         Utilized jobs to oversee EDI process for corporate finance management in maintaining a common general ledger across organization and in automating Cash receipts from customers and vendor payment integration, scheduled as per a custom calendar in Autosys.
+ 
+ 
+Speedcast Communications, Houston, TX, USA                                                     Nov 2018   Dec 2019
+Role: NAV Techno-Functional Consultant
+Project: NAV 2015 - 2017 Upgrade, Implementation/Development and Support
+Speedcast had been on PeopleSoft and NAV 2015 ERP and had to move their entire organizational data and operations under one platform being NAV 17. Quite a challenge, with Speedcast having global operations spanning many regions and countries with a total of 84 companies in NAV 17.
+Responsibilities:
+?         Provided support as the point of contact for the whole organization for everyday issues, preventing any blocks in business process.
+?         Understanding the customized functionality needed from business and collecting information from users.
+?         Prepared business requirement and technical design documents for new customizations.
+?         Organized issues/concerns based on whether they effect business (high priority), functionality modification and data/technical issues (medium priority) and minor user data fixes/changes (low priority) using a Change request form in a SharePoint site, working in tandem with Spiceworks ticket management tool
+?         Built/worked on customized Service/Contract module linked to the Jobs functionality as per Speedcast business process requirement.
+?         Managed User Security with customized permissions sets and groups, using Mergetool s EasySecurity Add-on.
+?         Implemented a customized Host-to-Host H2H portal payment functionality with Citibank and Barclays for direct ACH/GIRO/Check payments to Vendor bank accounts using payment journals in NAV 17.
+?         Experience with inter-company transaction setup with 84 operational companies within NAV 17.
+?         Experience with multiple currency setup and pulling exchange rates from OANDA add-on.
+?         Extensively worked on Rapidstart functionality to load and modify business data into all of NAV17 companies while creating new ones along with transfer from NAV 15.
+?         Knowledge on performance tuning by modifying NAV code and through SQL indexing scripts.
+?         Analyzing and mapping the customized functionalities with base new functionalities introduced in NAV 2017.
+?         Good exposure in automated merging process / scripts using Dynamics NAV development Shell.
+?         Responsibility for database upgrade from NAV 2015 to 2017 using retrieve, insert and modify capabilities of C/AL programming.
+?         Used Spiceworks web application for managing tickets and assigning priorities for Incidents/Bugs, Enhancements and Service requests.
+ 
+Signode Industrial Group, Chicago, IL, USA                                                     March 2017   Nov 2018
+Role: Dynamics 365 Technical Consultant
+Project: Dynamics 365 BC Upgrade
+Signode Industrial Group had installed and needed upgrading Microsoft Dynamics NAV 5.0 to Dynamics 365 Business Central with customized solution and add-ons to discrete manufacturing business process. 
+Responsibilities:
+?         Converting the Navision application objects from 5.0 to BC.
+?         Converting the Navision dimension related to code into new architectural changes.
+?         Converting all 5.0 forms using transformation tool.
+?         Preparing all customized Matrix forms into Matrix pages.
+?         Analyzing and mapping the customized functionalities with base new functionalities introduced in Dynamics 365 BC.
+?         Good exposure in automated merging process / scripts using Dynamics NAV development Shell.
+?         Responsibility for database upgrade from 5.0 to BC.
+?         Used ServiceNow for managing tickets and assigning priorities 1, 2 and 3 based on Incidents/Bugs, Enhancements and Minor changes. 
+Aon Affinity, Hatboro, PA, USA                                         Feb 2016   Jan 2017
+Role: NAV Technical Consultant
+Project: Dynamics NAV 2015 Support & Development
+Aon Insurance Service Corporation has installed Microsoft Dynamics NAV 2015 with customized solution related to AICPA trust business process. Dynamics NAV has also been integrated with other legacy systems for synchronizing the masters and Policy related information
+Responsibilities:
+?         Providing support for everyday issues, preventing any blocks in business process.
+?         Understanding the business requirement on customized functionality requirement from client and collecting information from users.
+?         Preparing the business requirement and technical design documents for new customizations.
+?         Assigning work to offshore team members and involved with TFS (Team Foundation Server) as project management tool to register and prioritize tickets, grouping them to eliminate duplicates. 
+?         Organizing issues/concerns based on whether they effect business (high priority), functionality modification and data/technical issues (medium priority) and minor interface related changes (low priority).
+?         Knowledge on performance tuning by modifying NAV code and through SQL indexing scripts.
+?         Integrating Dynamics NAV with legacy system (AS400) on various business process.
+?         Developed a new module (business process) related to Insurance Specific.
+?         Developing NAV RDLC reports.
+ 
+Portables Unlimited INC, NY, USA                                               Jan 2015   Jan 2016
+Role: NAV Technical Consultant
+Project: Dynamics NAV 2013 Support & Development
+Portables Unlimited is USA s one of the most well-Known organization of retail outlets. It is one of the largest wholesaler of T-Mobile s with almost 175 carriers nationwide. Using LS retail NAV add-on, the enterprise managed complete retail system and POS (Point of Sale) systems. They also offered payment vendor solutions through EPay, PreCash and QPay.   
+Responsibilities:
+?         Involved in designing the dealer s database in SQL Server 2012 and MS Dynamics NAV 2013 R2 the Web User Interface as per the functionalities.
+?         Developing the Data Structure at NAV end using C/AL programming.
+?         Using Nav Web Service components receiving data in NAV and sending the data from NAV.
+?         Integration using Web Service for website portablesunlimitedinc.com etc.
+?         Calling Stored procedures in NAV through Dotnet variables in NAV C/AL.
+?         Implemented the Auto-cash process in NAV, reading the Payment files and performing the automatic postings.
+ 
+
+Page 1 | 7-----END OF RESUME-----
+
+Name: Sai Teja
+Jacksonville, FL, 32218 US
+Email: tsai81274@gmail.com
+
+SUMMARY
+Resume Title: UploadedProfile-9621c6ee-6007-4991-98cc-df507302b05f
+Security Clearance Level: None
+Language: English - Intermediate
+Contact Preference: Email
+Highest Education Degree: Master's Degree
+
+Target Job Title: Microsoft Dynamics 365  Financial systems consultant
+Target Job Occupational Classification: IT Strategy Consultant
+Recent Job Title: Dynamics 365 BC Financial systems consultant
+Recent Employer: ELYSYS Finance, Monaco
+Employment History: Dynamics 365 BC Financial systems consultant - ELYSYS Finance, Monaco
+
+Willing to Relocate: Yes
+Geographic Pref: FL-US
+Work Authorization: I am authorized to work in this country for any employer.Harvested Resume from Monster
+89rv86v7bewfig4r
+Name=Sai Teja

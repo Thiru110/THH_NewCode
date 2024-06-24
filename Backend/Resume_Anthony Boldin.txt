@@ -1,0 +1,79 @@
+https://www.linkedin.com/in/anthonyboldin/https://github.com/codelover1110anthony.boldin.22@gmail.comAnthony BoldinExperienced Full Stack DeveloperContact:Work Experience1000 South Hope StreetLos Angeles, CA 90015213-864-1912Python / Django Developer (Fractional)(Remote)HireFraction LLCJuly 2023 to PresentAtlanta, GA      Client: Verdova - Farm and Field DataCreate API endpoints for front-end dashboard user interfaceDevelop and maintain ETL data pipeline----------------------------------------SkillsCreated and updated Data models                                  PythonJavaScriptVueReactDjangoFlaskNodeAPIHTML5CSS/SCSSMicroServicesTypeScriptUnit TestingUI/UXAWSPandasNumPy/SciPyAgileGitBuild automated unit testing for CI/CD pipelineOverhaul user authentication and permission systems between farmers,growers, farm managers, and data providersDesigned Django models, views, and RESTful APIs to seamlessly deliver datato and from the frontend, ensuring efficient data endpoints.Integration with SendGrid   Build front end UI dashboard with Vue.jsFull Stack Python Developer (Remote)OddsbenderAugust 2021 to PresentChicago, IL   Built a robust Python project harvesting real-time betting data from WilliamHill, FanDuel, Bet365, Barstool Sportsbook, BetMGM, and SugarHouse forfinding arbitrage opportunitiesBuilt custom Python scripts for our ETL process - Cleans, Transform,Aggregate, & Normalize data - managing over 700 million records in the past12 monthsImplemented data storage and management using PostgreSQL, AWS RDS, andRedis databases, ensuring efficient data retrieval and update operations.Developed Responsive user Dashboard utilizing ReactWorked closely with UI/UX designers to translate wireframes and mockupsinto pixel-perfect, userfriendly interfacesImplemented RESTful APIs using Node.js to enable seamless data exchangeUtilized Snowflake and Tableau for data visualizationContainerized apps using Docker and deployed with Kubernetes (AmazonEKS)Developed serverless app using AWS Lambda and DynamoDB, resulting inimproved performance and reduced infrastructure costs.Integrated and managed AWS services, including EC2 instances, S3 bucketsJiraJava  Docker/KubernetesData ScienceData VisualizationETL   JSONDatabasesPostgreSQLNoSQLMongoMySQLRedisLinuxSnowflake  Full Stack Python Developer (Remote)CAATSMarch 2019 to Aug 2021Los Angeles, CAFront-end Responsibilities  Developed and maintained highly responsive web application using React.Utilized state management libraries like Redux to manage complexapplication states efficiently   Integrated Django Endpoints and User Permissions with React Router,Axios, Chart.js and Redux for a React based modular front end.Ensured design mobile responsiveness using HTML5, SCSS/CSS, and ReactMaterial Design.Deployed UI/UX website design and layout consistency across all devicesand browsers.Backend Responsibilities Implemented both api and continuous websocket data harvesting forobtaining real-time trade data, bid-ask spread, order book fromexchanges such as Kraken, Bittrex, and Binance.    Implemented and managed user authentication and permission systemsusing Django, ensuring secure and role-based access control.Designed Django models, views, and RESTful APIs to seamlessly deliverdata to the frontend, ensuring efficient data endpoints.Built TimescaleDB to receive millions of records of every trade/transactionand interim calculation data.Developed in Python algorithmic trading strategies based on calculatedmetrics, variations, spread bias correction, midline, drift rate,acceleration, and leading indicators from other exchanges.Applied advanced asynchronous programming concepts includingpromises and async/await for handling IO-bound operations, contributingto the performance optimization of the applications.    Built Backtesting systems to test/validate strategiesUtilized Pandas, NumPy, SciPy, TA-Lib, FinTA LibrariesBuilt and Maintained Dedicated, Live, Test, and Backtesting Servers withintegrated monitoring to maintain uptimeFull Stack Python Developer (Remote)DentiraFeb 2016 to March 2019San Francisco, CAFront End Responsibilities:   Developed responsive web using React, Redux, SagaUtilized HTML5, CSS, PHP and JavaScriptCollaborated with designers to implement UI/UX designs and integratewith APIs Utilized React components, hooks, and state management libraries (e.g.,Redux)  Conducted thorough testing, debugging, and performance optimizationImplemented unit tests and integration tests using Jest and React TestingLibrary, ensuring code reliability and reducing bug counts by 20%.Backend Responsibilities: Developed and maintained robust and efficient backend services usingNode.js and Express.js, following best practices for code structure anddesign patterns. Maintained and added additional MS SQL Databases, for data persistence,creating and optimizing various complex queries for data manipulationand retrieval.   Wrote stored procedures and created scalable schemas.Designed and implemented RESTful APIs.JSON Web Tokens (JWT) for secure authentication.Front End DeveloperAxis CreativeMarch 2012 to Feb 2016Milwaukee, WI Developed and maintained websites for a diverse range of clients,including e-commerce, corporate, and portfolio websites.  Slice/code designs from Photoshop into HTML, CSS, and JavaScript.Assisted in the development of wireframes and prototypes to align withclient expectations.         Front-End Development: HTML5, CSS, JavaScript, and PHPFrameworks and Libraries: React, Vue.js, Angular, jQueryResponsive Design: Bootstrap, CSS Grid, Flexbox, WordPressVersion Control: Git, GitHub, Bitbucket, Gitlab, Jira, AsanaCross-Browser and Cross-Device ResponsivenessPerformance Optimization for Fast Load timesUser Experience (UI/UX) Design PrinciplesBuilt numerous eCommerce stores and Cart integrationsIntegration with Back-End Development: RESTful APIs using Node andDjangoEducationBachelor s Degree in EngineeringMarquette University   Milwaukee, Wisconsin-----END OF RESUME-----
+
+Name: Anthony Boldin
+Los Angeles, CA, United States
+Phone: 2138641912
+Email: 30w-7j3-zft@mail.dice.com
+
+Education
+
+Instituation: Marquette University
+Degree: Bachelors
+Location: Milwaukee
+
+Experience
+
+Years Of Experience: 12
+
+Current Work Company: Hirefraction
+Current Work Position: Full Stack Django Developer
+Current Work Start Year: 2023
+
+Company: Hirefraction
+Position: Full Stack Django Developer
+Start Year: 2023
+Location:
+
+Company: Oddsbender
+Position: Full Stack Developer
+Start Year: 2021
+Location:
+
+Company: CAATS
+Position: Full Stack Developer
+Start Year: 2019
+Location:
+
+Company: Full Stack Developer
+Position: Dentira
+Start Year: 2016
+Location:
+
+Company: Axis Creative
+Position: Front End Developer
+Start Year: 2012
+Location:
+
+Authorization: US Citizen
+Desired Position: Software Engineer (Remote Roles Only)
+
+Work Permit Locations: US
+
+Skills:
+python: 10 years, last used in 2024
+api: 9 years, last used in 2024
+restful: 9 years, last used in 2024
+ui: 9 years, last used in 2024
+ux: 9 years, last used in 2024
+bootstrap: 8 years, last used in 2024
+flask: 8 years, last used in 2024
+github: 8 years, last used in 2024
+javascript: 7 years, last used in 2024
+css: 6 years, last used in 2024
+django: 6 years, last used in 2024
+html5: 6 years, last used in 2024
+php: 5 years, last used in 2024
+reactjs: 5 years, last used in 2024
+vue: 5 years, last used in 2024
+bitbucket: 4 years, last used in 2024
+e commerce: , last used in 2024
+email marketing: , last used in 2024
+online advertising: , last used in 2024
+sem: , last used in 2024
+seo: , last used in 2024
+start ups: , last used in 2024
+
+Downloaded Resume from Dice
+373aeaf264ea01af399bb0686cb0b0a8b3f39f99
+
+
